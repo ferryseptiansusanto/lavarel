@@ -4,6 +4,9 @@
       <webServer id="727fd518-4c6f-4a4a-9e98-9f95e51916dc" name="mybook" url="http://localhost/mybook">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="831c6d3d-7a5b-4fd0-94c1-229919ee4be5" name="Larasia" url="http://localhost/larasia/public/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
